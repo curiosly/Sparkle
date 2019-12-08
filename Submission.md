@@ -4,7 +4,7 @@
 
 1. **Kids** want to understand Bitcoin and the Lightning Network. 
 
-1. **Companies** are giving away bitcoins on social media to beginners.
+1. **Companies** are giving away bitcoins to beginners on social media.
 
 ## Product satisfying the Need
 
