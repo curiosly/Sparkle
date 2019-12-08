@@ -31,3 +31,4 @@ Sparkle is the bitcoin killer app everyone has been waiting for as it enables ap
 <img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_9_1.jpg>
 <img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_10.jpg>
 <img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_11.jpg>
+<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_12.jpg>
