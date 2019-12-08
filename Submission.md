@@ -4,6 +4,8 @@
 
 1. **Kids** want to understand Bitcoin and the Lightning Network. 
 
+1. **Companies** are giving away bitcoins on social media to beginners.
+
 ## Product satisfying the Need
 
 Meeting everyone's need, *we present Sparkle (Slap)*. 
