@@ -8,7 +8,7 @@
 
 ## Product satisfying the Need
 
-Meeting everyone's need, *we present Sparkle (Slap)*. 
+Meeting everyone's need, *we present the first version of Sparkle (Slap)*. 
 People use *Spark (Slap)* to fund learning about bitcoin and lightning network topics. 
 When kids or anyone else learn and complete their learning objective, they get *bitcoins as rewards*. **Learning is Earning**.
 Moreover, Sparkle (Slap) can incentivise learning about different topics as bitcoin has applied multiple disciplines.
