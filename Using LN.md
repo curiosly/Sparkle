@@ -5,4 +5,4 @@ Get aboard the bitcoin lightning network through these videos. Learn to set up a
 [![](http://img.youtube.com/vi/kzlGOVateas/0.jpg)](http://www.youtube.com/watch?v=kzlGOVateas "Blue Wallet")
 
 ## Wallet of Satoshi
-[![](http://img.youtube.com/vi/7JTxwhe6Pnk/0.jpg)](http://www.youtube.com/watch?v=7JTxwhe6Pnk "Wallet of Satoshi")
+[![](http://img.youtube.com/vi/7JTxwhe6Pnk/0.jpg)](http://www.youtube.com/embed/7JTxwhe6Pnk?start=80&end=407 "Wallet of Satoshi")
