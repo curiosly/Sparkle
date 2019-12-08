@@ -20,7 +20,7 @@ Sparkle is the bitcoin killer app everyone has been waiting for as it enables ap
 [![](http://img.youtube.com/vi/s4g1XFU8Gto/0.jpg)](http://www.youtube.com/watch?v=s4g1XFU8Gto "Sparkle")
 
 ## Presentation
-<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_1.jpg>
+<img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_1_1.jpg>
 <img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_2.jpg>
 <img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_3.jpg>
 <img src=https://github.com/jmjes/Sparkle/blob/master/images/Slide_4.jpg>
