@@ -10,7 +10,7 @@
 
 Meeting everyone's need, *we present Sparkle (Slap)*. 
 People use *Spark (Slap)* to fund learning about bitcoin and lightning network topics. 
-When kids or anyone else learn and complete their learning objective, they get *bitcoins as rewards*. **Learning is Earning**
+When kids or anyone else learn and complete their learning objective, they get *bitcoins as rewards*. **Learning is Earning**.
 Moreover, Sparkle (Slap) can incentivise learning about different topics as bitcoin has applied multiple disciplines.
 Sparkle Slap is the bitcoin killer app everyone has been waiting for as it enables applied learning of bitcoin ecosystem and disciplines.
 **Adoption has to start with education**.
